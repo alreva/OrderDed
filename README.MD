@@ -28,4 +28,4 @@ Clone the repository:
     git clone https://github.com/alreva/OrderDed.git
 ```
 
-Then compile the solution (requires .Net Core SDK 3.0.101) and run in the same manner as in the option 1.
+Then compile the solution (requires .Net Core SDK 3.0.101, see here: https://dotnet.microsoft.com/download/dotnet-core) and run in the same manner as in the option 1.
